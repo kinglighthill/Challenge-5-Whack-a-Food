@@ -17,7 +17,7 @@ public class GameManagerX : MonoBehaviour
     public List<GameObject> targetPrefabs;
 
     private int score;
-    private float spawnRate = 2.0f;
+    private float spawnRate = 3.6f;
     private float difficulty = 1.0f;
     public bool isGameActive;
 
